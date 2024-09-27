@@ -1,0 +1,30 @@
+¿Qué técnica se utiliza para enseñar a una máquina mediante ejemplos?
+Machine Learning
+Quantum Computing
+Blockchain
+Data Mining
+1
+¿Qué es el "aprendizaje supervisado" en el contexto del aprendizaje automático?
+Un tipo de aprendizaje automático sin necesidad de datos etiquetados
+Un tipo de aprendizaje automático donde el modelo se entrena con datos etiquetados
+Un método para mejorar la eficiencia energética de los dispositivos
+Un algoritmo que permite supervisar la base de conocimiento 
+2
+¿Quién es conocido como el "padre de la inteligencia artificial"?
+Alan Turing
+John McCarthy
+Marvin Minsky
+Geoffrey Hinton
+2
+¿Qué técnica de IA se basa en imitar la estructura del cerebro humano mediante capas de neuronas artificiales?
+Lógica difusa
+Aprendizaje profundo
+Algoritmos genéticos
+Sistemas expertos
+2
+¿Cuál fue el primer sistema de IA que derrotó a un campeón mundial de ajedrez?
+Watson
+DeepMind
+Deep Blue
+AlphaGo
+3
